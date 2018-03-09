@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/hello</url>
+    <target>book appointment</target>
+    <description>daily summary job</description>
+    <schedule>every 12 hours</schedule>
+  </cron>
+</cronentries>
